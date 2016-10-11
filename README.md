@@ -5,7 +5,7 @@ A user guide of how to use the tool:
 
 Table of Content
 
-1. Introdution
+1. Introduction
 2. Login
 3. Importing Data
 4. The Query Browser
@@ -19,13 +19,13 @@ The following is the manual:
 
 Introduction
 -----
-1. Schematic Fission lets you turn CSV data into realtional data, which you can choose to keep in database or export to your own database.
+1. Schematic Fission lets you turn CSV data into relational data, which you can choose to keep in database or export to your own database.
 2. You can use schematic fission on our servers, or on your own deploy using Maven
 
 Login
 ----
-1. To login, type your login credentials in the main screen.
-2. If you are a new user, type in a new username and password in the boxes. If the user exists, this will not be allowed. 
+1. To login, type your login credentials at the main screen.
+2. If you are a new user, type in a new username and password in the boxes. If the username already exists, this will not be allowed. 
 3. Upon registration, you will be given an empty database on the server.
 
 Importing Data
@@ -33,7 +33,7 @@ Importing Data
 1. Use the import function to bring CSV data into the database. Do not use this function if your data is still messy - the "wrangle data" function is made just for this.
 2. Once you have selected your file, click "import" to bring all the data into the database.
 3. Your imported data should appear on the list on the left.
-4. Settle bug to note - uploading a messy CSV file here will quitely fail - use the Wrangle Spreadsheet Data feature to do this.
+4. Settle bug to note - uploading a messy CSV file here will quietly fail - use the Wrangle Spreadsheet Data feature to do this.
 
 The Query Browser
 ----
